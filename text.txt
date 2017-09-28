@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6866-8BB1
+
+ Directory of C:\Users\Mike\quicktest
+
+09/28/2017  01:31 AM    <DIR>          .
+09/28/2017  01:31 AM    <DIR>          ..
+09/28/2017  01:31 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  35,117,723,648 bytes free
